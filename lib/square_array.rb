@@ -1,8 +1,7 @@
 def square_array(array)
   i = 0
-  squard_array = []
+  i += 1
   while i < array.length do
-    squard_array << array[i] ** 2
-    i += 1
+    puts i **
   end
 end
